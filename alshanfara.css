@@ -94,7 +94,8 @@ div#l2 input#u2,div#l3 input#u3 {
 div#l2 input#pass1,div#l3 input#pass2 {
     border-radius: 15px;
     border: 1px solid #e1e0e0;
-    text-align: center
+    text-align: center;
+	    margin: -2px 176px -34px 5px !important;
 }
 
 div#l2,div#l3 {
